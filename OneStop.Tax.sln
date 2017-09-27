@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneStop.Tax", "OneStop.Tax\OneStop.Tax.csproj", "{914E1347-5D68-4B8C-A0D1-22674947C81C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneStop.Tax.Domain", "OneStop.Tax.Domain\OneStop.Tax.Domain.csproj", "{3CB489BF-C2C4-4924-B1AF-E3D74B68B16F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneStop.Tax.Data", "OneStop.Tax.Data\OneStop.Tax.Data.csproj", "{DDD59E83-64D5-49C7-88A7-E561F7D44A4B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{914E1347-5D68-4B8C-A0D1-22674947C81C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{914E1347-5D68-4B8C-A0D1-22674947C81C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{914E1347-5D68-4B8C-A0D1-22674947C81C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CB489BF-C2C4-4924-B1AF-E3D74B68B16F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CB489BF-C2C4-4924-B1AF-E3D74B68B16F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CB489BF-C2C4-4924-B1AF-E3D74B68B16F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CB489BF-C2C4-4924-B1AF-E3D74B68B16F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDD59E83-64D5-49C7-88A7-E561F7D44A4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDD59E83-64D5-49C7-88A7-E561F7D44A4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDD59E83-64D5-49C7-88A7-E561F7D44A4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDD59E83-64D5-49C7-88A7-E561F7D44A4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
